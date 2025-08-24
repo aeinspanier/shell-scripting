@@ -5,7 +5,7 @@ This repository demonstrates basic shell scripting skills with several example s
 ## Scripts
 
 - **hello-world.sh**  
-  Prints "Hello World" to the terminal.
+  Prints "Hello World" to the terminal...
 
 - **variables.sh**  
   Shows how to use variables and command substitution. It sets a birth date, calculates the day of the week, and prints both.
